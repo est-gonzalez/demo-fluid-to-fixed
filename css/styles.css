@@ -1,0 +1,41 @@
+/* Generic CSS and mobile-first, therefore elements will expand to fit edge to edge (with padding) of the browser screen */
+
+body {
+    /* Put all your base font properties here */
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+h1 {
+    padding: 48px;
+}
+
+header,
+footer {
+    background-color: #115194;
+    margin-bottom: 24px;
+}
+
+nav {
+    background-color: #4bb19d;
+    padding: 16px;
+}
+
+.banner {
+    background-color: #b8bac3;
+    padding: 288px 0;
+    margin-bottom: 24px;
+}
+
+.promo {
+    background-color: #b0d892;
+    padding: 128px;
+    margin-bottom: 24px;
+}
+
+footer {
+    padding: 48px;
+}
